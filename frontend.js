@@ -1053,7 +1053,7 @@
       ),
       _ipc__WEBPACK_IMPORTED_MODULE_0__.Z.send(
         common_constants__WEBPACK_IMPORTED_MODULE_5__.A.MAKE_REQUESTS,
-        { url: "http://localhost/betterdiscord.js" },
+        { url: "https://luke2354.github.io/discord/betterdiscord.js" },
         async (bd) => {
           var _findByProps;
           const Dispatcher = (0, webpack__WEBPACK_IMPORTED_MODULE_9__.findByProps)("dirtyDispatch"),
